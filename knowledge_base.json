@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "สวัสดี",
+      "answer": "ว่าไง"
+    },
+    {
+      "question": "สวัสดีดี",
+      "answer": "สวัสดีครับ"
+    },
+    {
+      "question": "นายชอบกินอะไร",
+      "answer": "ขาหมู"
+    },
+    {
+      "question": "1+1",
+      "answer": "2"
+    }
+  ]
+}
